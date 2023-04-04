@@ -1,0 +1,67 @@
+.todo-container{
+    background-color: rgb(155, 5, 235);
+    color: rgb(9, 9, 9);
+    margin: auto;
+    width: 40rem;
+    height: 50vh;
+    text-align: center;
+
+
+}
+.header{
+
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+
+}
+.input-container{
+    background-color:rgb(5, 1, 1);
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 20px;
+}
+.input{
+
+
+    font-size: 1.5em;
+    font-weight: bold;
+    width: 80%;
+    background-color: rgb(155, 5, 235);
+    border: 1px;
+    border-radius: 10px;
+    padding: .5em;
+    margin: 1em;
+    border: none;
+    text-align: left;
+}
+.add-btn{
+    background-color: rgb(114, 193, 69);
+    color: aliceblue;
+    cursor: pointer;
+}
+.list-class{
+    font-size: 1em;
+    background-color: rgb(155, 5, 235);
+    color: rgb(3, 0, 0);
+    border: 5px solid rgb(6, 9, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: .5em;
+    margin: .5em;
+
+}
+.dlt-btn{
+    background-color: rgb(230, 5, 5);
+    margin: 0px 5px;
+    padding: 3px 5px;
+    float: right;
+    color: black;
+}
+
+body{
+    background-color: rgb(5, 1, 1);
+}
+.add-btn:hover{
+    background-color: rgb(4, 4, 4);
+}
